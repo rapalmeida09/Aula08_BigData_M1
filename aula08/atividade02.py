@@ -1,6 +1,6 @@
 def valor_a_pagar(x, n):
     resultado = x * n
-    print(f'Total a pagar: {resultado}')
+    print(f'Total a pagar: {resultado:.2f}')
 
 
 for i in range(3):
